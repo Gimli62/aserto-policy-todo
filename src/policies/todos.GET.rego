@@ -1,3 +1,3 @@
 package todoApp.GET.todos
 
-default allowed = false
+default allowed = true
